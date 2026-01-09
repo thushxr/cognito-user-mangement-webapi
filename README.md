@@ -11,3 +11,5 @@ A lightweight Web API for managing users in an AWS Cognito User Pool. This proje
 - Delete (disable) a user
 - Trigger password reset / forgot-password flows
 - Confirm a user (admin confirm)
+
+[LinkedIn](https://www.linkedin.com/in/thushxr) | [Instagram](https://www.instagram.com/thushxr) | [Github](https://twitter.com/thushxr)
